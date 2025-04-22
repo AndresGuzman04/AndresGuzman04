@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - :technologist:I like to use software as a solution to each `problem`
-- :student: Third year study of `Engineering In Software Development`
+- :student: I am a fourth-year student of `Engineering In Software Development`
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -21,7 +21,6 @@
 
 - **Programming Languages**:
 
-    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
